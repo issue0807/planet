@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dfsfasyjchyjcyxcn
+=======
+slkdjfsljdflsjdjflsjdlfjs
+>>>>>>> 1aa3e05260ccf5144e3b985d95d12bc63b2b3cfc
